@@ -51,9 +51,7 @@ h1{
 
 }
 p{
-    font-style: normal;
-    font-feature-settings: 'clig' off, 'liga' off;
-    font-family: Outfit;
+    
     padding: 0px 32px;
     color: var(--grey);
     text-align: center;
